@@ -1,2 +1,2 @@
 # Pixel
-Pixel art game engine
+Pixel art creation software
